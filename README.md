@@ -2,8 +2,6 @@
 
 I'm cloud0606 😀
 
-- 🔭 I’m currently studying at **CUC**
-
 - 🚀 I use daily:
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
